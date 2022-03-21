@@ -9,5 +9,4 @@ class MsCacheManagerApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
